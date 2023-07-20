@@ -2,7 +2,7 @@
 CBOs in District 37 (July 2023)
 
 # How to modify CBO information/listing
-To make smaller edits (ex. update a phone number, add a website, change description), enter the CBOd37.csv file. It's a spreadsheet turned into a block of text (more specifically, Comma-Separated Values file). You can scroll and find the text you want to change (use CMD+F to do this quickly) and update the text.
+To make smaller edits (ex. update a phone number, add a website, change description), enter the CBOd37.csv file. It's a spreadsheet turned into a block of text (more specifically, Comma-Separated Values file). You can scroll and find the text you want to change (use CMD+F to do this quickly) and update the text. Be careful not to delete commas.
 
 If you would like to make larger changes, feel free to create a new CBOd37.csv file to replace this one with. 
 https://docs.google.com/spreadsheets/d/1spq3GVLPiKdIs_Gj2prtTbxUcYZopeUF3o53vfMxRmc/edit#gid=485374184
