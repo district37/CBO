@@ -10,7 +10,7 @@ const config = {
   zoom: 13, // zoom extent
   title: 'District 37 Community Based Organizations',
   description:
-    'This is a growing list of organizations serving District 37. Use the Show Filters button to filter by age and type. If you would like to help expand our list, feel free to click "Improve This Map," located at the bottom right.',
+    'This is a growing list of organizations serving District 37. Use the Show Filters button to filter by age and type.',
   sideBarInfo: ['Location_Name', 'Address', 'Description', 'Phone', 'URL'],
   popupInfo: ['Location_Name'],
   filters: [
